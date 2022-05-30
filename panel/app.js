@@ -10,7 +10,7 @@
     projectId: "hindi-c224a",
     storageBucket: "hindi-c224a.appspot.com",
     messagingSenderId: "173702075925",
-    appId: "1:173702075925:web:77d519c32252abb781201c"
+    appId: "11:173702075925:web:77d519c32252abb781201c"
    }; 
  
 ////Do Not Edit Below This
