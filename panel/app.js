@@ -1,15 +1,17 @@
 ///Edit Under This only
 
+
+
   
     var firebaseConfig = {
-    apiKey: "API KEY",
-    authDomain: "AUTH DOMAIN",
-    databaseURL: "DATABSE URL",
-    projectId: "PROJECT ID",
-    storageBucket: "BUCKET URL",
-    messagingSenderId: "SENDER ID",
-    appId: "APP ID"
-  }; 
+    apiKey: "AIzaSyA36pZWYUOucUA508TOr9LXOesRFt5h8c0",
+    authDomain: "hindi-c224a.firebaseapp.com",
+    databaseURL: "https://hindi-c224a.firebaseio.com",
+    projectId: "hindi-c224a",
+    storageBucket: "hindi-c224a.appspot.com",
+    messagingSenderId: "173702075925",
+    appId: "1:173702075925:web:77d519c32252abb781201c"
+   }; 
  
 ////Do Not Edit Below This
 
